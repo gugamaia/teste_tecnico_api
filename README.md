@@ -1,4 +1,4 @@
-# Tarefas — Desafio Técnico
+# Tarefas: Desafio Técnico
 
 CRUD de tarefas ponta a ponta.
 
@@ -18,7 +18,7 @@ docker-compose.yml   Postgres local
 ## Pré-requisitos
 
 - Node.js 20 ou superior
-- Docker (para o Postgres) — ou um Postgres próprio, informando `DATABASE_URL`
+- Docker (para o Postgres): ou um Postgres próprio, informando `DATABASE_URL`
 
 ## Como executar
 
@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 
-**3. Front-end** (http://localhost:5173) — o Vite faz proxy de `/api` para a porta 3001
+**3. Front-end** (http://localhost:5173): o Vite faz proxy de `/api` para a porta 3001
 
 ```bash
 cd frontend
