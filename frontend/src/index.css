@@ -1,0 +1,11 @@
+body { font-family: system-ui, sans-serif; margin: 0; color: #222; }
+main { max-width: 640px; margin: 2rem auto; padding: 0 1rem; }
+form { display: grid; gap: .5rem; margin-bottom: 1.5rem; }
+input, textarea, select, button { font: inherit; padding: .5rem; }
+.erro { color: #b00020; font-size: .875rem; min-height: 1.1rem; }
+.vazio { color: #888; }
+ul { list-style: none; padding: 0; }
+li { display: flex; gap: .5rem; align-items: center; padding: .5rem 0; border-bottom: 1px solid #eee; }
+li .t { flex: 1; }
+li.concluida .t { text-decoration: line-through; color: #888; }
+.tag { font-size: .75rem; padding: .1rem .4rem; border-radius: 4px; background: #eee; }
