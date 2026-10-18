@@ -1,4 +1,4 @@
-# Parte 2 — Análise de Incidente
+# Parte 2: Análise de Incidente
 
 > **Nota:** o enunciado não trouxe os logs. Esta análise usa um cenário ilustrativo e plausível para esta stack (trecho abaixo). Se o avaliador fornecer os logs reais, substitua o trecho e ajuste as conclusões.
 
